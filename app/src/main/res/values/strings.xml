@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Absence</string>
+    <string name="btn_create">Create New File</string>
+    <string name="btn_handle">Handle Nfc Tag</string>
+    <string name="action_tag_handling">Handle Tag</string>
+    <string name="drawer_open">drawer open</string>
+    <string name="drawer_close">drawer close</string>
+</resources>
